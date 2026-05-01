@@ -75,7 +75,7 @@ This makes the **Product Page → Cart transition the highest impact optimizatio
 ## ▶️ How to Run  
 
 ```bash
-git clone https://github.com/your-username/funnel-drop-analysis.git
+git clone https://github.com/VaibhaviDavee/funnel-drop-analysis.git
 cd funnel-drop-analysis
 pip install -r requirements.txt
 jupyter notebook
